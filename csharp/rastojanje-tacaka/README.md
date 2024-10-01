@@ -1,4 +1,4 @@
-# Rastojanje Tačaka
+# [Rastojanje Tačaka](https://petlja.org/sr-Latn-RS/biblioteka/r/Zbirka/rastojanje_tacaka)
 
 - Napiši program koji izračunava i ispisuje rastojanje između tačaka zadatih svojim koordinatama.
 

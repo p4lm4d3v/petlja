@@ -1,0 +1,15 @@
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\obj\Debug\net8.0\advanced-struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\obj\Debug\net8.0\advanced-struct.AssemblyInfoInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\obj\Debug\net8.0\advanced-struct.AssemblyInfo.cs
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\obj\Debug\net8.0\advanced-struct.csproj.CoreCompileInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\obj\Debug\net8.0\advanced-struct.sourcelink.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\bin\Debug\net8.0\advanced-struct.exe
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\bin\Debug\net8.0\advanced-struct.deps.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\bin\Debug\net8.0\advanced-struct.runtimeconfig.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\bin\Debug\net8.0\advanced-struct.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\bin\Debug\net8.0\advanced-struct.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\obj\Debug\net8.0\advanced-struct.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\obj\Debug\net8.0\refint\advanced-struct.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\obj\Debug\net8.0\advanced-struct.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\obj\Debug\net8.0\advanced-struct.genruntimeconfig.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-struct\obj\Debug\net8.0\ref\advanced-struct.dll

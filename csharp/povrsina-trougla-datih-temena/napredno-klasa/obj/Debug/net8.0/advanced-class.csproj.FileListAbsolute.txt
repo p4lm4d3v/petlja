@@ -1,0 +1,15 @@
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\bin\Debug\net8.0\advanced-class.exe
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\bin\Debug\net8.0\advanced-class.deps.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\bin\Debug\net8.0\advanced-class.runtimeconfig.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\bin\Debug\net8.0\advanced-class.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\bin\Debug\net8.0\advanced-class.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\obj\Debug\net8.0\advanced-class.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\obj\Debug\net8.0\advanced-class.AssemblyInfoInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\obj\Debug\net8.0\advanced-class.AssemblyInfo.cs
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\obj\Debug\net8.0\advanced-class.csproj.CoreCompileInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\obj\Debug\net8.0\advanced-class.sourcelink.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\obj\Debug\net8.0\advanced-class.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\obj\Debug\net8.0\refint\advanced-class.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\obj\Debug\net8.0\advanced-class.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\obj\Debug\net8.0\advanced-class.genruntimeconfig.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\advanced-class\obj\Debug\net8.0\ref\advanced-class.dll

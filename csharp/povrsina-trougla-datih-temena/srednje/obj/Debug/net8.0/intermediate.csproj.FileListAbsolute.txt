@@ -1,0 +1,15 @@
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\bin\Debug\net8.0\intermediate.exe
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\bin\Debug\net8.0\intermediate.deps.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\bin\Debug\net8.0\intermediate.runtimeconfig.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\bin\Debug\net8.0\intermediate.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\bin\Debug\net8.0\intermediate.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\obj\Debug\net8.0\intermediate.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\obj\Debug\net8.0\intermediate.AssemblyInfoInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\obj\Debug\net8.0\intermediate.AssemblyInfo.cs
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\obj\Debug\net8.0\intermediate.csproj.CoreCompileInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\obj\Debug\net8.0\intermediate.sourcelink.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\obj\Debug\net8.0\intermediate.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\obj\Debug\net8.0\refint\intermediate.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\obj\Debug\net8.0\intermediate.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\obj\Debug\net8.0\intermediate.genruntimeconfig.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\intermediate\obj\Debug\net8.0\ref\intermediate.dll

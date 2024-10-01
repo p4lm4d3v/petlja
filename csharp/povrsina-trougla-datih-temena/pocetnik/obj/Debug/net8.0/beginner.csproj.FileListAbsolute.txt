@@ -1,0 +1,15 @@
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\bin\Debug\net8.0\beginner.exe
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\bin\Debug\net8.0\beginner.deps.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\bin\Debug\net8.0\beginner.runtimeconfig.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\bin\Debug\net8.0\beginner.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\bin\Debug\net8.0\beginner.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\obj\Debug\net8.0\beginner.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\obj\Debug\net8.0\beginner.AssemblyInfoInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\obj\Debug\net8.0\beginner.AssemblyInfo.cs
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\obj\Debug\net8.0\beginner.csproj.CoreCompileInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\obj\Debug\net8.0\beginner.sourcelink.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\obj\Debug\net8.0\beginner.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\obj\Debug\net8.0\refint\beginner.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\obj\Debug\net8.0\beginner.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\obj\Debug\net8.0\beginner.genruntimeconfig.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\povrsina-trougla-datih-temena\pocetnik\obj\Debug\net8.0\ref\beginner.dll

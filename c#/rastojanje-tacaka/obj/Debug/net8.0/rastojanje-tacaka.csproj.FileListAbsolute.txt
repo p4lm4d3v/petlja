@@ -1,0 +1,15 @@
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\bin\Debug\net8.0\rastojanje-tacaka.exe
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\bin\Debug\net8.0\rastojanje-tacaka.deps.json
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\bin\Debug\net8.0\rastojanje-tacaka.runtimeconfig.json
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\bin\Debug\net8.0\rastojanje-tacaka.dll
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\bin\Debug\net8.0\rastojanje-tacaka.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\obj\Debug\net8.0\rastojanje-tacaka.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\obj\Debug\net8.0\rastojanje-tacaka.AssemblyInfoInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\obj\Debug\net8.0\rastojanje-tacaka.AssemblyInfo.cs
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\obj\Debug\net8.0\rastojanje-tacaka.csproj.CoreCompileInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\obj\Debug\net8.0\rastojanje-tacaka.sourcelink.json
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\obj\Debug\net8.0\rastojanje-tacaka.dll
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\obj\Debug\net8.0\refint\rastojanje-tacaka.dll
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\obj\Debug\net8.0\rastojanje-tacaka.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\obj\Debug\net8.0\rastojanje-tacaka.genruntimeconfig.cache
+D:\programiranje\projects\p4lm4d3v\petlja\c#\rastojanje-tacaka\obj\Debug\net8.0\ref\rastojanje-tacaka.dll

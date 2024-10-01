@@ -1,0 +1,15 @@
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\bin\Debug\net8.0\stoljnjak.exe
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\bin\Debug\net8.0\stoljnjak.deps.json
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\bin\Debug\net8.0\stoljnjak.runtimeconfig.json
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\bin\Debug\net8.0\stoljnjak.dll
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\bin\Debug\net8.0\stoljnjak.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\obj\Debug\net8.0\stoljnjak.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\obj\Debug\net8.0\stoljnjak.AssemblyInfoInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\obj\Debug\net8.0\stoljnjak.AssemblyInfo.cs
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\obj\Debug\net8.0\stoljnjak.csproj.CoreCompileInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\obj\Debug\net8.0\stoljnjak.sourcelink.json
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\obj\Debug\net8.0\stoljnjak.dll
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\obj\Debug\net8.0\refint\stoljnjak.dll
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\obj\Debug\net8.0\stoljnjak.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\obj\Debug\net8.0\stoljnjak.genruntimeconfig.cache
+D:\programiranje\projects\p4lm4d3v\petlja\c#\stoljnjak\obj\Debug\net8.0\ref\stoljnjak.dll

@@ -1,0 +1,15 @@
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\bin\Debug\net8.0\3-putnika.exe
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\bin\Debug\net8.0\3-putnika.deps.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\bin\Debug\net8.0\3-putnika.runtimeconfig.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\bin\Debug\net8.0\3-putnika.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\bin\Debug\net8.0\3-putnika.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\obj\Debug\net8.0\3-putnika.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\obj\Debug\net8.0\3-putnika.AssemblyInfoInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\obj\Debug\net8.0\3-putnika.AssemblyInfo.cs
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\obj\Debug\net8.0\3-putnika.csproj.CoreCompileInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\obj\Debug\net8.0\3-putnika.sourcelink.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\obj\Debug\net8.0\3-putnika.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\obj\Debug\net8.0\refint\3-putnika.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\obj\Debug\net8.0\3-putnika.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\obj\Debug\net8.0\3-putnika.genruntimeconfig.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\taksi\3-putnika\obj\Debug\net8.0\ref\3-putnika.dll

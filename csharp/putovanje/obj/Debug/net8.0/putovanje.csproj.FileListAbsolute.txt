@@ -1,0 +1,15 @@
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\bin\Debug\net8.0\putovanje.exe
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\bin\Debug\net8.0\putovanje.deps.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\bin\Debug\net8.0\putovanje.runtimeconfig.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\bin\Debug\net8.0\putovanje.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\bin\Debug\net8.0\putovanje.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\obj\Debug\net8.0\putovanje.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\obj\Debug\net8.0\putovanje.AssemblyInfoInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\obj\Debug\net8.0\putovanje.AssemblyInfo.cs
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\obj\Debug\net8.0\putovanje.csproj.CoreCompileInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\obj\Debug\net8.0\putovanje.sourcelink.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\obj\Debug\net8.0\putovanje.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\obj\Debug\net8.0\refint\putovanje.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\obj\Debug\net8.0\putovanje.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\obj\Debug\net8.0\putovanje.genruntimeconfig.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\putovanje\obj\Debug\net8.0\ref\putovanje.dll

@@ -1,14 +1,14 @@
 # [Putovanje](https://petlja.org/sr-Latn-RS/biblioteka/r/Zbirka/putovanje)
 
-Porodica je krenula autom na letovanje. Automobilom treba da pređu `s` kilometara krećući se ravnomernom brzinom od `v` kilometara na sat. Napisati program kojim se određuje za koliko će sati preći put.
+- Porodica je krenula autom na letovanje. Automobilom treba da pređu `s` kilometara krećući se ravnomernom brzinom od `v` kilometara na sat. Napisati program kojim se određuje za koliko će sati preći put.
 
 # Ulaz
 
-U prvoj liniji standardnog ulaza se nalazi realna vrednost `v`, a u sledećoj liniji realna vrednost `s` koje redom predstavljaju brzinu izraženu u kilumetrima na sat i planirani pređeni put u kilometrima.
+- U prvoj liniji standardnog ulaza se nalazi realna vrednost `v`, a u sledećoj liniji realna vrednost `s` koje redom predstavljaju brzinu izraženu u kilumetrima na sat i planirani pređeni put u kilometrima.
 
 # Izlaz
 
-Jedan realan broj zaokružen na dve decimale koji predstavlja potrebno vreme u satima.
+- Jedan realan broj zaokružen na dve decimale koji predstavlja potrebno vreme u satima.
 
 # Primeri
 

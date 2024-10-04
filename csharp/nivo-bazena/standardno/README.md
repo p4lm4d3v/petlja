@@ -1,14 +1,14 @@
 # [Nivo Bazena](https://petlja.org/sr-Latn-RS/biblioteka/r/problemi/Zbirka-stara/nivo_bazena)
 
-Tokom oluje palo je n litara vode po kvadratnom metru. Napisati program kojim se određuje za koliko centimetara se podigao nivo vode u otvorenom bazenu datih dimenzija, ako znamo da se voda nije prelila preko bazena.
+- Tokom oluje palo je n litara vode po kvadratnom metru. Napisati program kojim se određuje za koliko centimetara se podigao nivo vode u otvorenom bazenu datih dimenzija, ako znamo da se voda nije prelila preko bazena.
 
 # Ulaz
 
-U prvoj liniji standarndog ulaza nalazi se realan broj `n` koji predstavlja količinu kiše koja je pala po kvadratnom metru izraženu u litrima. U sledeće tri linije nalaze se realni brojevi `a`, `b`, `c` koji predstavljaju dimenzije bazena izražene u metrima i to redom dužinu, širinu i dubinu.
+- U prvoj liniji standarndog ulaza nalazi se realan broj `n` koji predstavlja količinu kiše koja je pala po kvadratnom metru izraženu u litrima. U sledeće tri linije nalaze se realni brojevi `a`, `b`, `c` koji predstavljaju dimenzije bazena izražene u metrima i to redom dužinu, širinu i dubinu.
 
 # Izlaz
 
-Na standarnom izlazu prikazati jedan realan broj na dve decimale koji predstavlja za koliko centimetara se podigao nivo vode u bazenu.
+- Na standarnom izlazu prikazati jedan realan broj na dve decimale koji predstavlja za koliko centimetara se podigao nivo vode u bazenu.
 
 # Primeri
 

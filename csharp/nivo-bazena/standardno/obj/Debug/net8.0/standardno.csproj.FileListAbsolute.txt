@@ -1,0 +1,15 @@
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\bin\Debug\net8.0\standardno.exe
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\bin\Debug\net8.0\standardno.deps.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\bin\Debug\net8.0\standardno.runtimeconfig.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\bin\Debug\net8.0\standardno.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\bin\Debug\net8.0\standardno.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\obj\Debug\net8.0\standardno.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\obj\Debug\net8.0\standardno.AssemblyInfoInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\obj\Debug\net8.0\standardno.AssemblyInfo.cs
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\obj\Debug\net8.0\standardno.csproj.CoreCompileInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\obj\Debug\net8.0\standardno.sourcelink.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\obj\Debug\net8.0\standardno.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\obj\Debug\net8.0\refint\standardno.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\obj\Debug\net8.0\standardno.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\obj\Debug\net8.0\standardno.genruntimeconfig.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\nivo-bazena\standardno\obj\Debug\net8.0\ref\standardno.dll

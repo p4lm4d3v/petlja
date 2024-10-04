@@ -29,15 +29,15 @@ Napisati program kojim se izračunava potrebna dužina trake za porub stolnjaka 
 
 # Objašnjenje
 
-- Prvo unosimo površinu stoljnjaka tako što ćemo pročitati liniju iz konzole i to što pročitamo pretvoriti u realan broj tipa podataka **_double_**. Tu vrednost ćemo zapisati u promenljivu pod imenom **_P_** (površina).
+- Prvo unosimo površinu stoljnjaka tako što ćemo pročitati liniju iz konzole i to što pročitamo pretvoriti u realan broj tipa podataka `double`. Tu vrednost ćemo zapisati u promenljivu pod imenom `P` (površina).
 
 - Dalje ćemo čistom matematikom doći do poluprečnika, tako što ćemo ga izvesti iz formule za površinu kruga.
 
 - Izvođenje:
-  <br> <strong><em> P = r² + π </em></strong> (formula za površinu kruga)
-  <br> r² + π = P
+  <br> `P = r²π` (formula za površinu kruga)
+  <br> r²π = P
   <br> r² = P / π
-  <br> <strong><em> r = √(P / π) </em></strong> (izvedena formula za poluprečnik)
+  <br> `r = √(P / π)` (izvedena formula za poluprečnik)
 
 - Sad možemo da izračunamo ono što nam zadatak traži, a to je obim našeg stoljnjaka, tj. dužina trake kojom ćemo prekriti rub našeg stola što je ista stvar. Uz pomoć formule za obim kruga i poluprečnika koji smo izveli ranije možemo izračunati dužinu trake.
 

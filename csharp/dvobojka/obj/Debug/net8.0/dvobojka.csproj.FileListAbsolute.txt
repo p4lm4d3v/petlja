@@ -1,0 +1,15 @@
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\bin\Debug\net8.0\dvobojka.exe
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\bin\Debug\net8.0\dvobojka.deps.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\bin\Debug\net8.0\dvobojka.runtimeconfig.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\bin\Debug\net8.0\dvobojka.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\bin\Debug\net8.0\dvobojka.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\obj\Debug\net8.0\dvobojka.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\obj\Debug\net8.0\dvobojka.AssemblyInfoInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\obj\Debug\net8.0\dvobojka.AssemblyInfo.cs
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\obj\Debug\net8.0\dvobojka.csproj.CoreCompileInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\obj\Debug\net8.0\dvobojka.sourcelink.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\obj\Debug\net8.0\dvobojka.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\obj\Debug\net8.0\refint\dvobojka.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\obj\Debug\net8.0\dvobojka.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\obj\Debug\net8.0\dvobojka.genruntimeconfig.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\obj\Debug\net8.0\ref\dvobojka.dll

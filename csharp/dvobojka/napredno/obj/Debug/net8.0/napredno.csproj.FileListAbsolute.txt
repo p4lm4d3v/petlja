@@ -1,0 +1,15 @@
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\bin\Debug\net8.0\napredno.exe
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\bin\Debug\net8.0\napredno.deps.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\bin\Debug\net8.0\napredno.runtimeconfig.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\bin\Debug\net8.0\napredno.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\bin\Debug\net8.0\napredno.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\obj\Debug\net8.0\napredno.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\obj\Debug\net8.0\napredno.AssemblyInfoInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\obj\Debug\net8.0\napredno.AssemblyInfo.cs
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\obj\Debug\net8.0\napredno.csproj.CoreCompileInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\obj\Debug\net8.0\napredno.sourcelink.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\obj\Debug\net8.0\napredno.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\obj\Debug\net8.0\refint\napredno.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\obj\Debug\net8.0\napredno.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\obj\Debug\net8.0\napredno.genruntimeconfig.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\dvobojka\napredno\obj\Debug\net8.0\ref\napredno.dll

@@ -1,0 +1,15 @@
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\bin\Debug\net8.0\trougao-odredjen-pravom-i-kordinatnim-pocetkom.exe
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\bin\Debug\net8.0\trougao-odredjen-pravom-i-kordinatnim-pocetkom.deps.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\bin\Debug\net8.0\trougao-odredjen-pravom-i-kordinatnim-pocetkom.runtimeconfig.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\bin\Debug\net8.0\trougao-odredjen-pravom-i-kordinatnim-pocetkom.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\bin\Debug\net8.0\trougao-odredjen-pravom-i-kordinatnim-pocetkom.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\obj\Debug\net8.0\trougao-odredjen-pravom-i-kordinatnim-pocetkom.GeneratedMSBuildEditorConfig.editorconfig
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\obj\Debug\net8.0\trougao-odredjen-pravom-i-kordinatnim-pocetkom.AssemblyInfoInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\obj\Debug\net8.0\trougao-odredjen-pravom-i-kordinatnim-pocetkom.AssemblyInfo.cs
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\obj\Debug\net8.0\trougao-odredjen-pravom-i-kordinatnim-pocetkom.csproj.CoreCompileInputs.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\obj\Debug\net8.0\trougao-odredjen-pravom-i-kordinatnim-pocetkom.sourcelink.json
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\obj\Debug\net8.0\trougao-odredjen-pravom-i-kordinatnim-pocetkom.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\obj\Debug\net8.0\refint\trougao-odredjen-pravom-i-kordinatnim-pocetkom.dll
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\obj\Debug\net8.0\trougao-odredjen-pravom-i-kordinatnim-pocetkom.pdb
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\obj\Debug\net8.0\trougao-odredjen-pravom-i-kordinatnim-pocetkom.genruntimeconfig.cache
+D:\programiranje\projects\p4lm4d3v\petlja\csharp\realni-brojevi\trougao-odredjen-pravom-i-kordinatnim-pocetkom\obj\Debug\net8.0\ref\trougao-odredjen-pravom-i-kordinatnim-pocetkom.dll
